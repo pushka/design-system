@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
       title: `new`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `http://peterj38.sg-host.com/`
   },
   plugins: [{
     resolve: 'gatsby-source-wordpress',
